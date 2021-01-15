@@ -1,0 +1,21 @@
+.Navbar {
+    height: 9vh;
+    /* background-color: black; */
+}
+
+.Navbar-container {
+    height: 10vh;
+    background-color: aqua;
+}
+.Logo {
+    height: 8vh;
+}
+
+/* .Navbar-logo {
+    height: 9vh;
+} */
+
+/* .Menu-icon {
+    height: 10vh;
+    background-color: red;
+} */
